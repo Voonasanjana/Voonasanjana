@@ -27,5 +27,5 @@
 
 
 <!--
-**Voonasanjana/Voona-sanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Voonasanjana/Voonasanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
