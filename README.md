@@ -2,6 +2,8 @@
 ## Hello 🙋‍♂️
 ## I'm Voona Sanjana, An Aspiring Data Scientist Student.✌️
 ###### BTECH from Giet University Gunupur(2018-2022) .
+###### Intermediate from Sri chaitianya Junior College Visakhapathanam.
+###### Schooling from Kendriya Vidalaya Nabarangpur.
 ###### Specialzation on Computer Science.
 
 - 💖 I’m currently learning Data Science.
