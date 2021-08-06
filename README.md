@@ -17,7 +17,7 @@
     
    * 📍 Linkedin : https://www.linkedin.com/in/sanjana-voona530/
 
-   *  📍 website : https://voonasanjana.github.io/Portfolio/
+   *  📍 Portfolio : https://voonasanjana.github.io/Portfolio/
   
    
    
